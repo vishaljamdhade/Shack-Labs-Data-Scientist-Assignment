@@ -3,8 +3,8 @@ Completed the following 2 tasks as part of Shack Labs DS Internship Assignment:
 
 House Price Prediction
 Matching of Amazon and Flipkart Products
-Libraries & Frameworks Used
-**For Task 1: House Price Prediction**
+# Libraries & Frameworks Used
+# For Task 1: House Price Prediction
 Numpy
 Pandas
 Matplotlib
@@ -14,7 +14,7 @@ Scipy
 XGBoost
 LightGBM
 CatBoost
-**For Task 2: Product Matching**
+# For Task 2: Product Matching
 PyTorch
 Sentence Transformers
 Pandas
